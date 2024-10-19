@@ -1,4 +1,4 @@
-<h1>CP normal void Template</h1>
+CP normal void Template:-
 <p>#include<bits/stdc++.h>
 using namespace std;
 void  solve(){
