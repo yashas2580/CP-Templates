@@ -1,5 +1,5 @@
 CP normal void Template:-
-<p>#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 void  solve(){
     int n; cin>>n;
@@ -12,4 +12,4 @@ int main(){
     while(t--){
         solve();
     }
-}</p>
+}
